@@ -1,5 +1,5 @@
 
-# Defi Ecosystem
+# DeFi Ecosystem
 
 ### Dollar Stable Tokens
 
