@@ -20,6 +20,9 @@
     - ```0x5bc25f649fc4e26069ddf4cf4010f9f706c23831``` - DUSD - DefiDollar
     - ```0xd46ba6d942050d489dbd938a2c909a5d5039a161``` - AMPL - Ampleforth
 
+  * Multi-collateral backed (work in progress)
+    - Acala Dollar (aUSD)
+
 * Custody
 
   - ```0xdac17f958d2ee523a2206206994597c13d831ec7``` - USDT - Tether (Bitfinex)
