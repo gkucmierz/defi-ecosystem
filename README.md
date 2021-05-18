@@ -27,3 +27,10 @@
   - ```0x8e870d67f660d95d5be530380d0ec0bd388289e1``` - PAX - Paxos Standard
   - ```0x4fabb145d64652a948d72533023f6e7a623c7c53``` - BUSD - Binance USD
   - ```0x0000000000085d4780b73119b644ae5ecd22b376``` - TUSD - TrueUSD
+
+
+### Bitcoin Stable Tokens
+
+- ```0x2260fac5e5542a773aa44fbcfedf7c193bc2c599``` - WBTC - Wrapped Bitcoin
+- ```0xeb4c2781e4eba804ce9a9803c67d0893436bb27d``` - RENBTC - renBTC
+- ```0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6``` - SBTC - sBTC
